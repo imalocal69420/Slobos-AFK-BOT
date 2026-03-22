@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "meandstrawberrychai.play.hosting",
-    "port": 23160,
-    "version": "1.21.11"
+    "port": 19819,
+    "version": "1.12.1"
   },
   "position": {
     "enabled": true,
